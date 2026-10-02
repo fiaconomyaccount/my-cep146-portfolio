@@ -6,9 +6,9 @@
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/) - Git basics
 
 ## Tools I Use
-- Text Editor: [Command Prompt]
-- Browser: [Microsoft Edge]
-- Note-taking: [Microsoft Word]
+- Text Editor: Command Prompt
+- Browser: Microsoft Edge
+- Note-taking: Microsoft Word
 
 ## Study Schedule
 | Day | Topic | Time |
