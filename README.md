@@ -1,2 +1,18 @@
-# my-cep146-portfolio
-"Portfolio of my work and projects for cep146"
+# My CEP146 Portfolio
+
+Welcome to my academic portfolio for cep146!
+
+## About Me
+- Name: Francis Iacono
+- Major: CPA
+- Year: 1
+- Favorite Programming Language: C
+
+## Course Goals
+- [ ] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
+
+## Projects
+*This section will be updated as I complete assignments*
